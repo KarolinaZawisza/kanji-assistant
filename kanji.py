@@ -4,4 +4,3 @@ class Kanji:
         self.expression = expression
         self.reading = reading
         self.meaning = meaning
-
